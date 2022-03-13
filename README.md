@@ -1,8 +1,8 @@
 # InstaScrapping
 
-Script to fetch number of posts, followers and following count from Instagram
+###Script to fetch number of posts, followers and following count from Instagram
 
-Libraries used:
-  Requests
-  BeautifulSoap
-  Pandas
+###Libraries used:
+  *Requests
+  *BeautifulSoap
+  *Pandas
